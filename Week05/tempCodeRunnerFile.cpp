@@ -1,0 +1,2 @@
+Rational operator*(Rational& other){
+    }
